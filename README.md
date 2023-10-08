@@ -1,6 +1,3 @@
-[![MasterHead][https://solace.com/wp-content/uploads/2018/12/spring-boot-java.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmSmJgXu6kW8ONXMTLq0LD6BJGFV3Hoc0DRg&usqp=CAU)
-
-
 <h1 align="center">Hi 👋, I'm Alperen Can</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
